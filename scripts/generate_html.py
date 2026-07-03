@@ -308,7 +308,7 @@ document.querySelectorAll('.letter-nav a[href^="#"]').forEach(link => {
 </html>'''
 
 # Write
-out_path = '/srv/projects/junior-high-2500-vocab/output/index.html'
+out_path = '/srv/projects/junior-high-2500-vocab/docs/index.html'
 with open(out_path, 'w', encoding='utf-8') as f:
     f.write(html)
 
