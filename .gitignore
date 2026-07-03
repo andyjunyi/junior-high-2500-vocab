@@ -1,0 +1,7 @@
+# Generated files
+output/vocab_2500.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
